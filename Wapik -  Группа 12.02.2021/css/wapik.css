@@ -1,0 +1,18 @@
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: rgba(27, 131, 27, 0.719);
+    border-radius: 50%;
+    float: right;
+    right: 0;
+    position: fixed;
+    bottom: 0;
+
+  }
+
+  .icon-arrow-up{
+    padding: 15px 18px;
+  }
+
+
+
